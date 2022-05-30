@@ -3,10 +3,9 @@
  * 이름: 이승연
  * 학번: 20193422
  * 생년월일: 2000년 11월 16일
- * 이메일: [e-mail]: lsy2016@naver.com
- * github address: [leesseungyeon][github]
+ * 이메일: lsy2016@naver.com
+ * 깃허브: https://github.com/leesseungyeon
 
-[github]:https://github.com/leesseungyeon
 
 2019년 3월 한림대학교 화학과 입학   
 2020년 3월 소프트웨어융합대학으로 소속 변경
