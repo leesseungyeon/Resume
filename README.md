@@ -1,11 +1,16 @@
-# Resume
-개인 이력사항   
+ <img src = 증명사진(고화질).jpg height=150 width=150>
+ * 이름: 이승연
+ * 학번: 20193422
+ * 생년월일: 2000년 11월 16일
+ * 이메일: [e-mail]: lsy2016@naver.com
+ * github address: [leesseungyeon][github]
+
+[github]:https://github.com/leesseungyeon
 
 2019년 3월 한림대학교 화학과 입학   
 2020년 3월 소프트웨어융합대학으로 소속 변경
 ---
-<img src = 증명사진(고화질).jpg height=150 width=150>
- 이승연
+
  
  ---
 
