@@ -1,4 +1,6 @@
- <img src = 증명사진(고화질).jpg height=150 width=150>
+# Resume
+
+<img src = 증명사진(고화질).jpg height=150 width=150>
  
  * 이름: 이승연(李昇衍)
  * 이름(영문): :Lee seung yeon
