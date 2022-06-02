@@ -7,7 +7,7 @@
  * 이름(영문): :Lee seung yeon
  * 생년월일: 2000년 11월 16일
  * 이메일: lsy2016@naver.com
- * 깃허브: 
+ * 깃허브: https://github.com/leesseungyeon
  * 소속: 한림대학교 소프트웨어학부 스마트IOT전공
  * 복수전공: 한림대학교 소프트웨어학부 빅데이터 전공
  ---
